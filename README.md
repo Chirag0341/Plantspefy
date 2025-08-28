@@ -1,4 +1,4 @@
- # Plantify: Plant Recognition using ResNet and YOLO
+ # Planspefy: Plant Recognition using ResNet and YOLO
 
 Technologies and Tools Used :
 - Android Studio (Kotlin)  
